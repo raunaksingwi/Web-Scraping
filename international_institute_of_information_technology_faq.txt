@@ -1,4 +1,0 @@
-['Question: What is the difference between BE &B.Tech.?', 'Question: Is it necessary to give CET for taking an admission to engineering college in Maharashtra?', 'Question: Can a student from Nagpur take admission to a college in Pune?', 'Question: What is important, Branch or College?', 'Question: Are there any seats reserved for female candidates?', 'Question: How to claim seats under management quota?', 'Question: Can one apply with CET score as well as AIEEE score at the same time?', 'Question: What is an autonomous institute?', 'Question: Is it risky to get admission into engineering during economic recession?']
-[]
-Questions :  9
-Answers :  0
