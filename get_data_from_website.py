@@ -11,7 +11,7 @@ except:
 root = str(sys.argv[1])
 
 #to store the all the data (Paragraphs) from the webstie
-data_file = open(root[4:] + ".txt",'w')
+data_file = open(root + ".txt",'w')
 print("This will take time according to the volume of data. Generally takes few minutes...")
 root = "http://www." + root
 urls = [root]
